@@ -1,2 +1,3 @@
-# introduction
-Two credit card fraud detection machine learning models using k-means and logistic regression trained by dataset from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+# credit card fraud detection
+Two machine learning models for credit card fraud detection by using k-means and logistic regression.
+trained on dataset from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
